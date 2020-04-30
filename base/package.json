@@ -15,7 +15,7 @@
     "flex-box": "^1.0.0",
     "http-errors": "~1.6.2",
     "https": "^1.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "morgan": "~1.9.0",
     "popper.js": "^1.14.3",
     "pug": "2.0.0-beta11",
